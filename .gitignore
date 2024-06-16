@@ -1,0 +1,10 @@
+# echo "# GitHub-login-page" >> README.md
+# git init
+# git add README.md
+# git commit -m "first commit"
+# git branch -M main
+# git remote add origin https://github.com/Ajith369369/GitHub-login-page.git
+# git push -u origin main
+
+gh.html
+index_1.html
